@@ -1,0 +1,1 @@
+06.OneAssertRule.o: 06.OneAssertRule.cpp
